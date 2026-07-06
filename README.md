@@ -35,4 +35,4 @@ python stopwatch.py
 
 ## License
 
-MIT-Lizenz – More Information you find here [LICENSE](LICENSE).
+MIT-License – More Information you find here [LICENSE](LICENSE).
