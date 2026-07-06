@@ -1,4 +1,4 @@
-# Stopwatch
+# Stopwatch with Sound Trigger
 
 A dark-themed desktop stopwatch built with PySide6, replicating [sqrt.ch/Buch/stopwatch](https://www.sqrt.ch/Buch/stopwatch). Supports manual start/stop/reset plus an optional microphone-triggered start/stop (e.g. clap or noise detection).
 
@@ -35,4 +35,4 @@ python stopwatch.py
 
 ## License
 
-MIT-License – More Information you find here [LICENSE](LICENSE).
+MIT License – More Information you find here [LICENSE](LICENSE).
